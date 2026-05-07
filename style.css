@@ -57,7 +57,7 @@ input {
 .btn3 {
   font-weigth:bold;
   color:white;
-  text-decoration-color:red;
+  text-decoration:none;
 }
 
 img {
@@ -72,7 +72,7 @@ img {
 }
 
 .btn5{
-  text-decoration:none;
+  text-decoration-color:red;
   font-weight:bold;
   background-color:#FF0000;
   color:white;
